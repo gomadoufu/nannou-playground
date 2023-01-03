@@ -1,3 +1,4 @@
+//cargo watch -x 'run --bin template_sketch'
 use nannou::prelude::*;
 
 fn main() {
