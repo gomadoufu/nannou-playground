@@ -15,7 +15,7 @@
       "id": "bin",
       "type": "promptString",
       "description": "Select a binary to run",
-      "default": "template_sketch"
+      "default": "playground"
     }
   ]
 }
